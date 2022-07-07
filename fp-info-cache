@@ -1,4 +1,4 @@
-20290742224882122
+20292400262050388
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57842,6 +57842,13 @@ TH_RASP_HAT
 1
 Library
 TS-1101-C-W
+
+
+0
+2
+2
+Library
+X1-DFN1006-2_L1.0-W0.6-BI
 
 
 0
